@@ -104,7 +104,7 @@ hr{
 
 
 
-/*Todos los botones de leer más*/
+/*Todos los botones de leer más (eliminados u ocultados)*/
 .btn {
     cursor: pointer;
     display: inline-block;
